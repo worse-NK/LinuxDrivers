@@ -1,0 +1,1 @@
+savedcmd_/home/worse/Education/Modulus/hello_world.mod := printf '%s\n'   hello_world.o | awk '!x[$$0]++ { print("/home/worse/Education/Modulus/"$$0) }' > /home/worse/Education/Modulus/hello_world.mod

@@ -1,0 +1,1 @@
+savedcmd_/home/worse/Education/Modulus/ZOV_module/zov_module.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/worse/Education/Modulus/ZOV_module/zov_module.ko /home/worse/Education/Modulus/ZOV_module/zov_module.o /home/worse/Education/Modulus/ZOV_module/zov_module.mod.o

@@ -1,0 +1,1 @@
+savedcmd_/home/worse/Education/Modulus/hello_world.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/worse/Education/Modulus/hello_world.ko /home/worse/Education/Modulus/hello_world.o /home/worse/Education/Modulus/hello_world.mod.o

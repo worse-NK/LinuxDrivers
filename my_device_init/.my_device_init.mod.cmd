@@ -1,0 +1,1 @@
+savedcmd_/home/worse/Education/Modulus/my_device_init/my_device_init.mod := printf '%s\n'   my_device_init.o | awk '!x[$$0]++ { print("/home/worse/Education/Modulus/my_device_init/"$$0) }' > /home/worse/Education/Modulus/my_device_init/my_device_init.mod

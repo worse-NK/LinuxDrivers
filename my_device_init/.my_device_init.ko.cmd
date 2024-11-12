@@ -1,0 +1,1 @@
+savedcmd_/home/worse/Education/Modulus/my_device_init/my_device_init.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/worse/Education/Modulus/my_device_init/my_device_init.ko /home/worse/Education/Modulus/my_device_init/my_device_init.o /home/worse/Education/Modulus/my_device_init/my_device_init.mod.o

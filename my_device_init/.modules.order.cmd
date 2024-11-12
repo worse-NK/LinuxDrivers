@@ -1,0 +1,1 @@
+savedcmd_/home/worse/Education/Modulus/my_device_init/modules.order := {   echo /home/worse/Education/Modulus/my_device_init/my_device_init.o; :; } > /home/worse/Education/Modulus/my_device_init/modules.order

@@ -1,0 +1,1 @@
+savedcmd_/home/worse/Education/Modulus/my_device_init/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/worse/Education/Modulus/my_device_init/Module.symvers -T /home/worse/Education/Modulus/my_device_init/modules.order -i Module.symvers -e 

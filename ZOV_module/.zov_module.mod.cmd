@@ -1,0 +1,1 @@
+savedcmd_/home/worse/Education/Modulus/ZOV_module/zov_module.mod := printf '%s\n'   zov_module.o | awk '!x[$$0]++ { print("/home/worse/Education/Modulus/ZOV_module/"$$0) }' > /home/worse/Education/Modulus/ZOV_module/zov_module.mod
